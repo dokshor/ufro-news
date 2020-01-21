@@ -11,5 +11,8 @@ Get lastest news related with Dollar and Chile.
 ## How to test?
 - npm test
 
-## Dependencies
+## Dependences
 - Redis Server
+
+# Author
+Fabián Ramírez S. aka dokshor
