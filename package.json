@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "jest-cli": "^24.9.0",
     "morgan": "^1.9.1",
     "nodemon": "^2.0.2",
     "redis": "^2.8.0",
